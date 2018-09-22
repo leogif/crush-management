@@ -1,7 +1,7 @@
 import * as mongoose from 'mongoose';
 
 class DataBase{
-    private DB_URI = 'mongodb://127.0.0.1/crush-manegement';
+    private DB_URI = 'mongodb://127.0.0.1/crush-management';
     private DB_CONNECTION;
 
     constructor(){}
